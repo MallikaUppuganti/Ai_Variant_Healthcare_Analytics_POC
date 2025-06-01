@@ -10,15 +10,15 @@ The dashboards equip healthcare stakeholders with data-driven decision-making to
 
 
 ## 🎯 Business Objectives
-Track total patients, doctors, visits, and lab results to monitor institutional scale
+* Track total patients, doctors, visits, and lab results to monitor institutional scale
 
-Analyze the top 5 diagnosed conditions and medical specialties
+* Analyze the top 5 diagnosed conditions and medical specialties
 
-Understand follow-up rates and test result patterns
+* Understand follow-up rates and test result patterns
+  
+* Evaluate treatment cost distribution to identify cost-saving opportunities
 
-Evaluate treatment cost distribution to identify cost-saving opportunities
-
-Provide filterable views by year and city for better strategic planning
+* Provide filterable views by year and city for better strategic planning
 
 ## 📊Dashboards
 
