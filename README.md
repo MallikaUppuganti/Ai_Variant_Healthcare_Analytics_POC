@@ -6,7 +6,7 @@ This project is a Proof of Concept developed for a leading client in the Healthc
 
 As a Data Analyst, I led the end-to-end workflow, from raw data cleaning and transformation to designing a dynamic dashboards that empowers stakeholders with instant decision-making capability.
 
-The dashboards equip healthcare stakeholders with data-driven decision-making tools based on real-world clinical data. Built using Power BI and Excel, the dashboards provide real-time insights into patient demographics, diagnoses, doctor performance, lab results and follow-up rates. MySQL was used for querying and structuring backend data, while Tableau was used for cross-platform validation and benchmarking (in collaboration with a teammate).
+The dashboards equip healthcare stakeholders with data-driven decision-making based on real-world clinical data. Built using Power BI and Excel, the dashboards provide real-time insights into patient demographics, diagnoses, doctor performance, lab results and follow-up rates. MySQL was used for querying and structuring backend data, while Tableau was used for cross-platform validation and benchmarking (in collaboration with a teammate).
 
 
 ## 🎯 Business Objectives
