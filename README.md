@@ -34,13 +34,13 @@ The dashboards equip healthcare stakeholders with data-driven decision-making ba
 ![image](https://github.com/MallikaUppuganti/Ai_Variant_Healthcare_Analytics_POC/blob/main/Healthcare_Analytics_POC_Tableau.jpg)
 
 ## 🧩Key Features of the Dashboard
-* **✅ KPI Cards:** High-level metrics — patients, doctors, visits, revenue
+* **🔢 KPI Cards:** High-level metrics - patients, doctors, visits, revenue
 
 * **📋 Follow-Up Analysis:** 50% of patients required post-treatment care
 
-* **🧪 Lab Result Distribution:** Normal vs. abnormal test result breakdown
+* **🧪 Lab Result Distribution:** Normal vs. Abnormal test result breakdown
 
-* **📈 Top Diagnoses & Specialties:** Migraine, hypertension, and key departments highlighted
+* **📈 Top Diagnoses & Specialties:** Migraine, hypertension and key departments highlighted
 
 * **🧾 Cost Breakdown:** Tree map visualization of treatment spending
 
@@ -61,13 +61,13 @@ The dashboards equip healthcare stakeholders with data-driven decision-making ba
 While I was responsible for building the Power BI and Excel dashboards, the Tableau visuals were developed by a colleague for comparison. I contributed by ensuring consistency across tools and aligning business logic.
 
 ## ✅ Results & Impact
-Produced a polished, stakeholder-ready dashboard for clinical review
+* Produced a polished, Stakeholder-ready dashboard for clinical review
 
-Identified actionable insights — e.g., high follow-up rates, cost clusters
+* Identified actionable insights - e.g., high follow-up rates, cost clusters
 
-Enhanced visibility into hospital operations and city-wise resource allocation
+* Enhanced visibility into hospital operations and city-wise resource allocation
 
-Demonstrated multi-tool capability across Power BI, Excel, SQL, and Tableau
+* Demonstrated multi-tool capability across Power BI, Excel, SQL and Tableau
 
 
 
