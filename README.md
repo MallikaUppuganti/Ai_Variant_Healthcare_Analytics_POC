@@ -82,5 +82,4 @@ While I was responsible for building the Power BI and Excel dashboards, the Tabl
 * Excellent example of **domain-specific analytics** with healthcare KPIs and trends
 
 
-### Project by: Mallika Uppuaganti
 
