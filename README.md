@@ -1,5 +1,7 @@
 # 🏥 HealthCare Analytics
-### Company: Ai Variant | Tools: Power BI, Excel, MySQL, Tableau | Domain: Healthcare & Life Sciences
+### Company: Ai Variant
+### Tools: Power BI, Excel, MySQL, Tableau
+### Domain: Healthcare & Life Sciences
 
 ## 📌 Project Summary
 This project is a Proof of Concept developed for a leading client in the Healthcare domain. The goal was to enable healthcare leaders to make data-informed decisions by transforming raw clinical data into an accessible, visually compelling format. 
