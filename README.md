@@ -71,6 +71,16 @@ While I was responsible for building the Power BI and Excel dashboards, the Tabl
 
 * Demonstrated multi-tool capability across Power BI, Excel, SQL and Tableau
 
+## ✨ Why This Project Stands Out
+
+* Real-world clinical analytics use case with measurable impact
+
+* Combines **Power BI, Excel, MySQL,** and **cross-platform QA via Tableau**
+
+* Demonstrates your ability to drive **business insights from raw data to decisions**
+
+* Excellent example of **domain-specific analytics** with healthcare KPIs and trends
+
 
 
 
